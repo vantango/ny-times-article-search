@@ -7,8 +7,17 @@ header {
 . {
     margin-top: 50px;
 }
-.card {
+.card1{
+    background-color: transparent;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+.card2 {
     margin-top: 50px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
 }
 
 
