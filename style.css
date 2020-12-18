@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://static01.nyt.com/images/2017/08/03/insider/03insider-moonmorris-3/03insider-moonmorris-3-jumbo.jpg");
+}
+header {
+    height: 100px;
+}
+. {
+    margin-top: 50px;
+}
+.card1{
+    background-color: transparent;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+.card2 {
+    margin-top: 50px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+
+
+footer {
+    background-color: rgb(245, 208, 162);
+    margin-top: 50px;
+}
