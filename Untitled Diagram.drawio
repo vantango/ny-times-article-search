@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2020-12-18T18:32:35.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Mv8-7snD-saoYDsZwunw" version="14.1.1" type="github">
+  <diagram id="JAU5vUVctFeRWzI60-oK" name="Page-1">
+    <mxGraphModel dx="782" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aZO7UY6OXiy6PwHrLXp0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="470" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aZO7UY6OXiy6PwHrLXp0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="460" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="aZO7UY6OXiy6PwHrLXp0-4" value="CLASS = CONTAINER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="240" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aZO7UY6OXiy6PwHrLXp0-5" value="INPUTS&lt;br&gt;-class = input, ID = searchTerm&lt;br&gt;-class = input, ID = numRecords&lt;br&gt;-class = input, ID = startYear&lt;br&gt;-class = input, ID = endYear" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="310" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aZO7UY6OXiy6PwHrLXp0-7" value="HEADER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="100" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aZO7UY6OXiy6PwHrLXp0-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="460" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="aZO7UY6OXiy6PwHrLXp0-11" value="CLASS = RESULTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="710" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aZO7UY6OXiy6PwHrLXp0-12" value="Top Articles&lt;br&gt;return numRecords articles&lt;br&gt;-articleTitle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="740" width="310" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
